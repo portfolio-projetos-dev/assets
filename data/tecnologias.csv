@@ -1,0 +1,30 @@
+id,nome,destaque,descricao,imagem
+1,HTML,false,Linguagem de marcação para estruturação de páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/html.svg
+2,CSS,false,Linguagem de estilos para definição do design e layout das páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/css.svg
+3,JavaScript,false,Linguagem de programação para interatividade em páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/javascript.svg
+4,TypeScript,true,Superset do JavaScript que adiciona tipagem estática.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/typescript.svg
+5,Node.js,true,Ambiente de execução JavaScript no lado do servidor.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/node.svg
+6,Java,true,Linguagem de programação orientada a objetos.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/java.svg
+7,Python,true,Linguagem de programação interpretada de alto nível.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/python.svg
+8,NestJS,true,Framework para construção de aplicações back-end em Node.js.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/nest.svg
+9,Express.js,false,Framework web minimalista para Node.js.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/express.svg
+10,React,true,Biblioteca JavaScript para construção de interfaces de usuário.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/react.svg
+11,Vue.js,false,Framework progressivo para construção de interfaces de usuário.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/vue.svg
+12,Angular,false,Framework front-end desenvolvido pelo Google.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/angular.svg
+13,Svelte,false,Framework para construção de interfaces reativas.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/svelte.svg
+14,PostgreSQL,false,Sistema de gerenciamento de banco de dados relacional avançado.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/postgresql.svg
+15,MongoDB,false,Banco de dados NoSQL orientado a documentos.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/mongo.svg
+16,GraphQL,false,Linguagem de consulta para APIs que permite obter apenas os dados necessários.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/graphql.svg
+17,Docker,false,"Plataforma para criação, execução e gerenciamento de containers.",https://github.com/portfolio-projetos-dev/assets/raw/main/images/docker.svg
+18,Kubernetes,false,"Sistema para automação da implantação, escalonamento e operações de containers.",https://github.com/portfolio-projetos-dev/assets/raw/main/images/kubernetes.svg
+19,Terraform,false,Ferramenta de infraestrutura como código para gerenciamento de recursos na nuvem.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/terraform.svg
+20,Firebase,false,Plataforma de desenvolvimento de aplicativos móveis e web da Google.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/firebase.svg
+21,React Native,false,Biblioteca para desenvolvimento de aplicativos móveis com React.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/react.svg
+22,Next.js,false,Framework React para construção de aplicações web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/next.svg
+23,Prisma,false,ORM para Node.js e TypeScript com suporte a diversos bancos de dados.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/prisma.svg
+24,Supabase,false,Plataforma open-source para desenvolvimento de aplicativos web e APIs.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/supabase.svg
+25,Tailwind CSS,false,Framework CSS para construção de interfaces de usuário.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/tailwind.svg
+26,Flutter,true,Framework para desenvolvimento de aplicativos móveis nativos.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/flutter.svg
+27,PHP,false,Linguagem de programação de uso geral.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/php.svg
+28,ChatGPT,false,API de conversação baseada em GPT-3.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/openai.svg
+29,Dart,false,Linguagem de programação para desenvolvimento de aplicativos móveis com Flutter.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/dart.svg
